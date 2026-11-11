@@ -5,7 +5,7 @@ title: "Welcome!"
 author_profile: true
 ---
 
-I am a Ph.D. candidate in Economics at the University of North Carolina at Chapel Hill. I am fortunate to be advised by [Fei Li](https://lifei.weebly.com/) and [Jaden Chen](https://www.jadenchen95.com/).
+I am a Ph.D. candidate in Economics at the University of North Carolina at Chapel Hill. I am fortunate to be advised by [Fei Li](https://lifei.weebly.com/) and [Jaden Yang Chen](https://www.jadenchen95.com/).
 
 
 ## Working Papers
